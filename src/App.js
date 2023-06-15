@@ -13,7 +13,6 @@ function App() {
           <Route path="/employees" Component={EmployeesPage} />
           <Route path="/tasks" Component={TasksPage} />
         </Routes>
-      
       </div>
     </Router>
   );
